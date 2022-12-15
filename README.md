@@ -1,6 +1,8 @@
 # Binary Trees Project
 
-## ALX-Holbertoon Project
+## A ALX-Holbertoon Project
+
+![](https://miro.medium.com/max/720/1*Z89j_NoDx9HkFcPHy3rPZg.webp)
 
 TASKS
 
